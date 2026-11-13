@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="isle" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e8c7d"/>
+      <stop offset="0.62" stop-color="#0a6a5e"/>
+      <stop offset="1" stop-color="#d96440"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="url(#isle)"/>
+  <path d="M32 42 C 22 35, 16 28, 16 22.5 C 16 18, 20 15, 24.4 16.4 C 27.2 17.3, 30.1 19.8, 32 22.2 C 33.9 19.8, 36.8 17.3, 39.6 16.4 C 44 15, 48 18, 48 22.5 C 48 28, 42 35, 32 42 Z" fill="#fffdf8"/>
+  <path d="M13 50 Q 22.5 44.5, 32 50 T 51 50" stroke="#fffdf8" stroke-width="3.4" fill="none" stroke-linecap="round"/>
+</svg>
